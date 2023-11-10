@@ -1,6 +1,3 @@
-package lecture07;
-
-
 class Course{
     private String code;
     private String name;
